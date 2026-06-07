@@ -1,0 +1,23 @@
+# Nuxt
+.nuxt
+.output
+.data
+dist
+
+# Zavisnosti
+node_modules
+
+# Logovi
+*.log
+npm-debug.log*
+
+# Okruženje
+.env
+.env.*
+!.env.example
+
+# Editor / OS
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
